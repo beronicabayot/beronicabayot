@@ -1,32 +1,18 @@
-# Hi 👋, I'm Beronica Bayot
+# Hi, I'm Beronica 👋
 
 🎓 Computer Science Student  
-💻 React / Next.js / PHP / C#  
+💻 Full-Stack Developer  
 🎨 UI/UX Enthusiast  
-📍 Philippines
+📍 Philippines  
 
 ---
 
-## 🚀 About Me
-
-I am a 4th-year Computer Science student passionate about building modern web applications, clean UI designs, and full-stack systems. I enjoy turning ideas into real-world projects.
-
----
-
-## 🛠️ Tech Stack
-
-- HTML, CSS, JavaScript, TypeScript
-- React.js, Next.js
-- Tailwind CSS
-- PHP, C#, ASP.NET
-- Node.js
-- MySQL, MongoDB, Supabase
-
----
-
-## 📊 GitHub Stats
-
-[![Beronica's GitHub stats](https://vercel.app)](https://github.com/beronicabayot)
+## 🚀 Skills
+- HTML, CSS, JavaScript, TypeScript  
+- React, Next.js  
+- Tailwind CSS  
+- PHP, C#, ASP.NET  
+- MySQL, MongoDB  
 
 ---
 
