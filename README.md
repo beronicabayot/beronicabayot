@@ -24,18 +24,9 @@ I am a 4th-year Computer Science student passionate about building modern web ap
 
 ---
 
-## 📌 Featured Projects
-
-- 🧾 BaonTrackerPro – Personal Finance Tracker
-- 🎓 ECCD Council Evaluation Platform (Thesis)
-- 📘 ArchiTech – Learning Platform
-- 📚 Proglearn – E-Learning System
-
----
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?beronicabayot=YOUR_USERNAME&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?beronicabayot=BERONICABAYOT&show_icons=true&theme=default)
 
 ---
 
