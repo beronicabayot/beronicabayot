@@ -26,7 +26,7 @@ I am a 4th-year Computer Science student passionate about building modern web ap
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?beronicabayot=BERONICABAYOT&show_icons=true&theme=default)
+[![Beronica's GitHub stats](https://vercel.app)](https://github.com/beronicabayot)
 
 ---
 
