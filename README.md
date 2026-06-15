@@ -1,7 +1,6 @@
 # Hi, I'm Beronica 👋
 
-🎓 Computer Science Student  
-💻 Full-Stack Developer  
+🎓 Computer Science Student   
 🎨 UI/UX Enthusiast  
 📍 Philippines  
 
